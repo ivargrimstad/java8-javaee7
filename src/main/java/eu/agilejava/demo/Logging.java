@@ -27,6 +27,8 @@ import java.util.logging.Logger;
 import javax.annotation.PostConstruct;
 
 /**
+ * Just to test how it works. Will be refactored and improved when example
+ * is being created.
  *
  * @author Ivar Grimstad <ivar.grimstad@gmail.com>
  */
